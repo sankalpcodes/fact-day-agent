@@ -1,6 +1,6 @@
 # Day Fact Agent
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hvu92vc-9sA?si=Krk9aK5Y5OVUTPjr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Watch the video here: https://youtu.be/Hvu92vc-9sA?si=0Ag3Eq_XD-U9GhW3
 
 A small command-line tool that tells you an interesting fact about any day you enter.
 
