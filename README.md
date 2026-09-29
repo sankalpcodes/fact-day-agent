@@ -1,5 +1,7 @@
 # Day Fact Agent
 
+https://youtu.be/Hvu92vc-9sA
+
 A small command-line tool that tells you an interesting fact about any day you enter.
 
 ```
